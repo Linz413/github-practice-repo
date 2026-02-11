@@ -1,0 +1,3 @@
+# Ignore R History Files When Pushing to GitHub
+.Rhistory
+.Rapp.history
